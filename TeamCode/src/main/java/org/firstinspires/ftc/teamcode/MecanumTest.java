@@ -67,7 +67,7 @@ public class MecanumTest extends LinearOpMode
     }
 
     //Motor power is set here
-    
+
     public void motortest(){
         int count=0;
         motorstop();
